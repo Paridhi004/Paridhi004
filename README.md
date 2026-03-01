@@ -1,53 +1,119 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=25&duration=4500&pause=1200&color=FF61A6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=👋+Hi%2C+I'm+Paridhi+Rastogi!;💻+A+Tech+Explorer+%26+🎨+Creative+Problem+Solver+!)](https://github.com/paridhirastogi)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3500&pause=1000&color=FF61A6&center=true&vCenter=true&width=900&height=120&lines=Hi%2C+I'm+Paridhi+Rastogi+👋;Full+Stack+Developer+%7C+DSA+Enthusiast;Building+with+React+%2B+Django+🚀;Future+AI%2FML+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:6A5ACD&height=140&section=header"/>
+</p>
+
+<!-- Profile Views + Animated Divider -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paridhi004&label=Profile%20Views&color=FF61A6&style=for-the-badge" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/paridhi004?label=Followers&style=for-the-badge&color=6A5ACD" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/paridhi004?affiliations=OWNER&label=Stars&style=for-the-badge&color=00C2FF" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Computer Science Student  
+💻 Passionate about Full Stack Development & Problem Solving  
+🚀 Actively building projects & strengthening DSA  
+🌙 Night owl who debugs better with music  
+
+---
+
+## 🔭 Current Focus
+
+- Building Frontend & Django Projects  
+- Strengthening DSA (Java)  
+- Exploring AI/ML fundamentals  
+- Growing through Open Source  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,react,django,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,github" />
+</p>
+
+---
 
 
-![Visitors](https://komarev.com/ghpvc/?username=paridhirastogi&color=blue&style=flat-square)
+<h2 align="center">📊 GitHub Analytics</h2>
 
-I’m a passionate Computer Science student with a strong interest in Web Development, and Open Source 🌐🚀
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paridhi004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF61A6&icon_color=FF61A6&text_color=ffffff" height="170"/>
+</p>
 
-- 🔭 I’m currently working on: Frontend Projects & GitHub Portfolio
-- 🌱 I’m currently learning: React, Bootstrap, and SQL
-- 💬 Ask me about: Web Dev, Python, DSA
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/paridhi-rastogi-4872b2295)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paridhi004&theme=tokyonight&hide_border=true&background=00000000&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" height="170"/>
+</p>
 
-### 🛠️ Languages & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhi004&theme=tokyo-night&hide_border=true&bg_color=00000000&color=FF61A6&line=FF61A6&point=FFFFFF" />
+</p>
 
+---
 
-![Paridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paridhi004&show_icons=true&theme=tokyonight)
+## 📚 Currently Learning
 
+- ⚛️ React.js & Tailwind CSS  
+- 🐍 Data Science with Python  
+- 🧠 Advanced DSA & Algorithms  
+- 🌐 Backend Development with Django & PostgreSQL  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Paridhi004&theme=tokyonight&hide_border=false)
+---
 
-### 📚 Currently Learning
-- 📘 React.js & Tailwind CSS
-- 📊 Data Science with Python
-- 🧠 Algorithms & DSA
+## 🌟 What I Bring
 
+✔ Strong fundamentals in Data Structures  
+✔ Clean and responsive UI building  
+✔ Structured problem-solving approach  
+✔ Consistent learner mindset  
 
-### 💡 Fun Fact
-- I debug better with music 🎧
-- I love helping people understand code 🧑‍🏫
-- I'm a night owl developer 🌙
+---
 
-### 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/paridhi-rastogi-4872b2295)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:prastogi_be23@thapar.edu)
+<h2 align="center">🌐 Let's Connect</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/paridhi-rastogi-4872b2295">
+    <img src="https://img.shields.io/badge/LinkedIn-Paridhi_Rastogi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prastogi_be23@thapar.edu">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Open+to+Collaboration;Open+to+Internships;Always+Learning+🚀" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF61A6,100:6A5ACD&height=120&section=footer"/>
+</p>  
 
 
 
